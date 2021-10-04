@@ -1,0 +1,17 @@
+.chat-window {
+    display: flex;
+    height: 500px;
+    border: 1px solid gray;
+    flex-direction: column;
+}
+.chat-message {
+    margin: .25em;
+}
+
+.message-username {
+    font-size: 0.6em;
+}
+
+.flex {
+    display: flex;
+}
